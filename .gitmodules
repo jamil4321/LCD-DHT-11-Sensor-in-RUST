@@ -4,3 +4,6 @@
 [submodule "i2c_lcd_lib"]
 	path = i2c_lcd_lib
 	url = /home/jamil/Desktop/lcd_with_release_delay/i2c_Lcd_lib
+[submodule "i2c_Lcd_lib"]
+	path = i2c_Lcd_lib
+	url = https://github.com/jamil4321/i2c_lcd_lib.git
